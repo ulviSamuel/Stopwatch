@@ -5,6 +5,7 @@ An educational Java 11 command-line stopwatch that tracks total elapsed time and
 [![Java 11](https://img.shields.io/badge/Java-11-007396?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/11/)
 [![Command-line application](https://img.shields.io/badge/Interface-Command--line-555555?style=flat-square)](#usage)
 [![Academic project](https://img.shields.io/badge/Category-Academic%20project-6f42c1?style=flat-square)](#project-context)
+![Year](https://img.shields.io/badge/Year-2022-lightgrey)
 
 > [!NOTE]
 > This repository contains an academic project originally developed during earlier programming studies. It is preserved as a record of the technical knowledge, design decisions, and development experience acquired at the time.
@@ -92,4 +93,4 @@ The package namespace (`it.volta.ts`), Italian instructional comments, and Eclip
 
 ## License
 
-No license file or explicit license statement is included in the repository.
+This project is shared for educational and portfolio purposes. All rights reserved unless otherwise stated.
